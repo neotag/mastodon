@@ -1,4 +1,4 @@
-Mastodon
+Mastodon.cloud
 ========
 
 [![Build Status](http://img.shields.io/travis/tootsuite/mastodon.svg)][travis]
@@ -6,6 +6,8 @@ Mastodon
 
 [travis]: https://travis-ci.org/tootsuite/mastodon
 [code_climate]: https://codeclimate.com/github/tootsuite/mastodon
+
+[![Screenshot](https://http://i.imgur.com/OKcIhx9.png)][youtube_demo]
 
 Mastodon is a free, open-source social network server. A decentralized solution to commercial platforms, it avoids the risks of a single company monopolizing your communication. Anyone can run Mastodon and participate in the social network seamlessly.
 
