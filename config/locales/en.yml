@@ -3,6 +3,18 @@ en:
   about:
     about_mastodon: Mastodon is a <em>free, open-source</em> social network. A <em>decentralized</em> alternative to commercial platforms, it avoids the risks of a single company monopolizing your communication. Pick a server that you trust &mdash; whichever you choose, you can interact with everyone else. Anyone can run their own Mastodon instance and participate in the <em>social network</em> seamlessly. You can <em>contribute</em> on our instance with a small donation. 
     about_this: About this instance
+    presentation: 'We are an open Mastodon instance with people from all around the world. Feel free to join us in this adventure.'
+    rules_headline: 'There is few rules to respect here :'
+    rules:
+      a: Don't be a jerk, please.
+      b: NSFW is allowed only in Content Warning.
+      c: Lolicon, childs and immoral pictures are totally forbidden.
+      d: Racism, xenophobia, homophobia are strictly prohibited.
+      e: Don't be a troll, Don't be a bully. 
+      f: You can report every post you judge offensive.
+      g: We are in the cloud but respect your own country law.  
+      h: You can report every post you judge offensive.
+    contribute_headline: 'How to help us ?'
     apps: Apps
     business_email: 'Business e-mail:'
     closed_registrations: Registrations are currently closed on this instance.

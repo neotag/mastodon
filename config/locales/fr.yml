@@ -4,6 +4,18 @@ fr:
     about_mastodon: Mastodon(dot)Cloud est un serveur <em>libre</em> de réseautage social. Alternative <em>décentralisée</em> aux plateformes commerciales, la monopolisation de vos communications par une entreprise unique est évitée. Tout un chacun peut faire tourner Mastodon et participer au <em>réseau social</em> de manière transparente. Vous pouvez <em>contribuer</em> à notre instance en faisant un don.
     about_this: À propos de cette instance
     apps: Applications
+    presentation: 'We are an open Mastodon instance with people from all around the world. Feel free to join us in this adventure.'
+    rules_headline: 'There is few rules to respect here :'
+    rules:
+      a: Don't be a jerk, please.
+      b: NSFW is allowed only in Content Warning.
+      c: Lolicon, childs and immoral pictures are totally forbidden.
+      d: Racism, xenophobia, homophobia are strictly prohibited.
+      e: Don't be a troll, Don't be a bully. 
+      f: You can report every post you judge offensive.
+      g: We are in the cloud but respect your own country law.  
+      h: You can report every post you judge offensive.
+    contribute_headline: 'How to help us ?'
     business_email: Courriel professionnel
     closed_registrations: Les inscriptions sont actuellement fermées sur cette instance.
     contact: Contact
@@ -12,12 +24,12 @@ fr:
     domain_count_before: Connectés à
     features:
       api: API ouverte aux apps et services
-      blocks: Outils complets de bloquage et masquage
+      blocks: Outils complets de bloquage
       characters: 500 caractères par post
       chronology: Fil chronologique
       ethics: 'Pas de pubs, pas de pistage'
       gifv: Partage de vidéos et de GIFs
-      privacy: Réglages de confidentialité au niveau des posts
+      privacy: Réglages de confidentialité
       public: Fils publics
     features_headline: Ce qui rend Mastodon différent
     get_started: Rejoindre le réseau

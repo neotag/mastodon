@@ -5,10 +5,10 @@
   = Rails.configuration.x.local_domain
 
 - content_for :header_tags do
-  %meta{ property: 'og:site_name', content: site_title }/
+  %meta{ property: 'og:site_name', content: 'Mastodon.Cloud' }/
   %meta{ property: 'og:type', content: 'website' }/
   %meta{ property: 'og:title', content: 'Mastodon.Cloud' }/
-  %meta{ property: 'og:description', content: strip_tags(@instance_presenter.site_description.blank? ? t('about.about_mastodon') : @instance_presenter.site_description) }/
+  %meta{ property: 'og:description', content: strip_tags(@instance_presenter.site_description.blank? ? t('about.presentation') : @instance_presenter.site_description) }/
   %meta{ property: 'og:image', content: asset_url('mastodon_small.jpg') }/
   %meta{ property: 'og:image:width', content: '400' }/
   %meta{ property: 'og:image:height', content: '400' }/
@@ -40,9 +40,42 @@
 
   - unless @instance_presenter.site_description.blank?
     %h3= t('about.description_headline', domain: Rails.configuration.x.local_domain)
-    %p= @instance_presenter.site_description.html_safe
+    %p= t('about.presentation')
 
 
+  %h3= t('about.rules_headline')
+
+  .features-list
+    .features-list__column
+      %ul.fa-ul
+        %li
+          = fa_icon('li check-square')
+          = t 'about.rules.a'
+        %li
+          = fa_icon('li check-square')
+          = t 'about.rules.b'
+        %li
+          = fa_icon('li check-square')
+          = t 'about.rules.c'
+        %li
+          = fa_icon('li check-square')
+          = t 'about.rules.d'
+        %li
+          = fa_icon('li check-square')
+          = t 'about.rules.e'
+        %li
+          = fa_icon('li check-square')
+          = t 'about.rules.f'
+        %li
+          = fa_icon('li check-square')
+          = t 'about.rules.g'
+        %li
+          = fa_icon('li check-square')
+          = t 'about.rules.h'
+
+  %h3= t('about.contribute_headline')
+
+  %p= @instance_presenter.site_description.html_safe
 
   %h3= t('about.features_headline')
 
