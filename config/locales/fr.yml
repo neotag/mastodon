@@ -4,22 +4,25 @@ fr:
     about_mastodon: Mastodon(dot)Cloud est un serveur <em>libre</em> de réseautage social. Alternative <em>décentralisée</em> aux plateformes commerciales, la monopolisation de vos communications par une entreprise unique est évitée. Tout un chacun peut faire tourner Mastodon et participer au <em>réseau social</em> de manière transparente. Vous pouvez <em>contribuer</em> à notre instance en faisant un don.
     about_this: À propos de cette instance
     apps: Applications
-    presentation: 'We are an open Mastodon instance with people from all around the world. Feel free to join us in this adventure.'
-    rules_headline: 'There is few rules to respect here :'
+    presentation: 'Nous sommes une instance Mastodon ouverte à tous, avec des personnes du monte entier. Rejoignez-nous !'
+    rules_headline: 'Quelles sont les règles à respecter :'
     rules:
-      a: Don't be a jerk, please.
-      b: NSFW is allowed only in Content Warning.
-      c: Lolicon, childs and immoral pictures are totally forbidden.
-      d: Racism, xenophobia, homophobia are strictly prohibited.
-      e: Don't be a troll, Don't be a bully. 
-      f: You can report every post you judge offensive.
-      g: We are in the cloud but respect your own country law.  
-      h: You can report every post you judge offensive.
-    contribute_headline: 'How to help us ?'
+      a: Ne soyez pas une ordure.
+      b: Les posts sexuels doivent absolument être en Content Warning.
+      c: Les Lolicon, images d'enfants et immorales sont strictement interdit.
+      d: Le racisme, la xénophobie et l'homophobie sont totalement prohibés. 
+      e: Les images gores et violentes uniquement en Content Warning. 
+      f: Ne soyez pas un troll, ne soyez pas une brute.
+      g: Vous pouvez reporter les posts que vous jugez offensants.
+      h: Vous êtes dans les nuages, mais respectez les lois de votre pays.
+    contribute_headline: 'Comment nous aider ?'
+    thanks_headline: 'Un grand merci à nos contributeurs Premium :'
+    thanks: "Frederic Alix, なおたか はらだ, Joe McLaughlin, mamma, Ron, Obi George et aux autres."
+    usercount_headline: "Cette instance compte :"
     business_email: Courriel professionnel
     closed_registrations: Les inscriptions sont actuellement fermées sur cette instance.
     contact: Contact
-    description_headline: Qu'est-ce que Mastodon(dot)Cloud ?
+    description_headline: Qu'est-ce que Mastodon.cloud ?
     domain_count_after: autres instances
     domain_count_before: Connectés à
     features:
