@@ -19,10 +19,6 @@
     = image_tag 'logo.png'
     Mastodon.cloud
 
-  - unless @instance_presenter.site_description.blank?
-    %h3= t('about.description_headline', domain: Rails.configuration.x.local_domain)
-    %p= @instance_presenter.site_description.html_safe
-
   .screenshot-with-signup
     .mascot= image_tag 'fluffy-elephant-friend.png'
 
@@ -40,6 +36,13 @@
           = link_to t('about.other_instances'), 'https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/List-of-Mastodon-instances.md'
           ·
           = link_to t('about.about_this'), about_more_path
+
+
+  - unless @instance_presenter.site_description.blank?
+    %h3= t('about.description_headline', domain: Rails.configuration.x.local_domain)
+    %p= @instance_presenter.site_description.html_safe
+
+
 
   %h3= t('about.features_headline')
 
