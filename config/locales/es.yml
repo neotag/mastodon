@@ -3,6 +3,21 @@ es:
   about:
     about_mastodon: Mastodon es un servidor de red social <em>libre y de código abierto</em>. Una alternativa <em>descentralizada</em> a plataformas comerciales, que evita el riesgo de que una única compañía monopolice tu comunicación. Cualquiera puede ejecutar Mastodon y participar sin problemas en la <em>red social</em>.
     about_this: Acerca de esta instancia
+    presentation: 'We are an open Mastodon instance with people from all around the world. Feel free to join us in this adventure.'
+    rules_headline: 'What are the rules ?'
+    rules:
+      a: Racism, xenophobia, homophobia are strictly prohibited.
+      b: Lolicon, childs and immoral pictures are strictly prohibited.
+      c: NSFW is allowed only in Content Warning.
+      d: Gore, blood and violent pictures only in Content Warning.
+      e: Don't be a troll, Don't be a bully.
+      f: Don't be a jerk, please.
+      g: You can report every post you judge offensive.
+      h: We are in the cloud but respect your own country law.
+    contribute_headline: 'How to help us ?'
+    thanks_headline: 'A great thanks to our biggest contributors :'
+    thanks: "Frederic Alix, なおたか はらだ, Joe McLaughlin, mamma, Ron, Obi George, Hijo, 96HiME, SUPERIDOL, Neotag and to others."
+    usercount_headline: "This instance count :"
     apps: Apps
     business_email: 'Correo de negocios:'
     closed_registrations: Los registros están actualmente cerrados en esta instancia.

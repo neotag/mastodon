@@ -5,17 +5,17 @@ fr:
     about_this: À propos de cette instance
     apps: Applications
     presentation: 'Nous sommes une instance Mastodon ouverte à tous, avec des personnes du monde entier. Rejoignez-nous !'
-    rules_headline: 'Quelles sont les règles à respecter :'
+    rules_headline: 'Quelles sont les règles à respecter ? :'
     rules:
-      a: Ne soyez pas une ordure.
-      b: Les posts sexuels doivent absolument être en Content Warning.
-      c: Les Lolicon, images d'enfants et immorales sont strictement interdit.
-      d: Le racisme, la xénophobie et l'homophobie sont totalement prohibés. 
-      e: Les images gores et violentes uniquement en Content Warning. 
-      f: Ne soyez pas un troll, ne soyez pas une brute.
-      g: Vous pouvez reporter les posts que vous jugez offensants.
+      a: Le racisme, la xénophobie et l'homophobie sont totalement prohibés. 
+      b: Les Lolicons, images d'enfants et immorales sont totalement prohibées.
+      c: Les images sexuelles doivent absolument être en Content Warning.
+      d: Les images gores et violentes uniquement en Content Warning. 
+      e: Ne soyez pas méchant, violent, abjecte.
+      f: Ne devenez pas un troll.
+      g: Vous pouvez signaler les posts que vous jugez offensants.
       h: Vous êtes dans les nuages, mais respectez les lois de votre pays.
-    contribute_headline: 'Comment nous aider ?'
+    contribute_headline: 'Comment nous soutenir ?'
     thanks_headline: 'Un grand merci à nos contributeurs Premium :'
     thanks: "Frederic Alix, なおたか はらだ, Joe McLaughlin, mamma, Ron, Obi George, Hijo, 96HiME, SUPERIDOL et aux autres."
     usercount_headline: "Cette instance compte :"

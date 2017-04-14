@@ -3,6 +3,21 @@ ru:
   about:
     about_mastodon: Mastodon - это <em>свободная</em> социальная сеть с <em>открытым исходным кодом</em>. Как <em>децентрализованная</em> альтернатива коммерческим платформам, Mastodon предотвращает риск монополизации Вашего общения одной компанией. Выберите сервер, которому Вы доверяете &mdash; что бы Вы ни выбрали, Вы сможете общаться со всеми остальными. Любой может запустить свой собственный узел Mastodon и участвовать в <em>социальной сети</em> совершенно бесшовно.
     about_this: Об этом узле
+    presentation: 'We are an open Mastodon instance with people from all around the world. Feel free to join us in this adventure.'
+    rules_headline: 'What are the rules ?'
+    rules:
+      a: Racism, xenophobia, homophobia are strictly prohibited.
+      b: Lolicon, childs and immoral pictures are strictly prohibited.
+      c: NSFW is allowed only in Content Warning.
+      d: Gore, blood and violent pictures only in Content Warning.
+      e: Don't be a troll, Don't be a bully.
+      f: Don't be a jerk, please.
+      g: You can report every post you judge offensive.
+      h: We are in the cloud but respect your own country law.
+    contribute_headline: 'How to help us ?'
+    thanks_headline: 'A great thanks to our biggest contributors :'
+    thanks: "Frederic Alix, なおたか はらだ, Joe McLaughlin, mamma, Ron, Obi George, Hijo, 96HiME, SUPERIDOL, Neotag and to others."
+    usercount_headline: "This instance count :"
     apps: Приложения
     business_email: 'Деловой e-mail:'
     closed_registrations: В данный момент регистрация на этом узле закрыта.

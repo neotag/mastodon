@@ -3,6 +3,21 @@ bg:
   about:
     about_mastodon: Mastodon е <em>безплатен</em> сървър с <em>отворен код</em> за социални мрежи. Като <em>децентрализирана</em> алтернатива на комерсиалните платформи, той позволява избягването на риска от монополизация на твоята комуникация от единични компании. Изберете си сървър, на който се доверявате, и ще можете да контактувате с всички останали. Всеки може да пусне Mastodon и лесно да вземе участие в <em>социалната мрежа</em>.
     about_this: За тази инстанция
+    presentation: 'We are an open Mastodon instance with people from all around the world. Feel free to join us in this adventure.'
+    rules_headline: 'What are the rules ?'
+    rules:
+      a: Racism, xenophobia, homophobia are strictly prohibited.
+      b: Lolicon, childs and immoral pictures are strictly prohibited.
+      c: NSFW is allowed only in Content Warning.
+      d: Gore, blood and violent pictures only in Content Warning.
+      e: Don't be a troll, Don't be a bully.
+      f: Don't be a jerk, please.
+      g: You can report every post you judge offensive.
+      h: We are in the cloud but respect your own country law.
+    contribute_headline: 'How to help us ?'
+    thanks_headline: 'A great thanks to our biggest contributors :'
+    thanks: "Frederic Alix, なおたか はらだ, Joe McLaughlin, mamma, Ron, Obi George, Hijo, 96HiME, SUPERIDOL, Neotag and to others."
+    usercount_headline: "This instance count :"
     apps: Приложения
     business_email: 'Служебен e-mail:'
     closed_registrations: В момента регистрациите за тази инстанция са затворени.

@@ -4,6 +4,21 @@ zh-HK:
     about_mastodon: Mastodon （長毛象）是一個<em>自由、開放源碼</em>的社交網站。它是一個分散式的服務，避免你的通訊被單一商業機構壟斷操控。請你選擇一家你信任的 Mastodon 服務站，在上面建立帳號，然後你就可以和任一 Mastodon 服務站上的用戶互通，享受無縫的<em>社交網絡</em>交流。
     about_this: 關於本服務站
     apps: 應用程式
+    presentation: 'We are an open Mastodon instance with people from all around the world. Feel free to join us in this adventure.'
+    rules_headline: 'What are the rules ?'
+    rules:
+      a: Racism, xenophobia, homophobia are strictly prohibited.
+      b: Lolicon, childs and immoral pictures are strictly prohibited.
+      c: NSFW is allowed only in Content Warning.
+      d: Gore, blood and violent pictures only in Content Warning.
+      e: Don't be a troll, Don't be a bully.
+      f: Don't be a jerk, please.
+      g: You can report every post you judge offensive.
+      h: We are in the cloud but respect your own country law.
+    contribute_headline: 'How to help us ?'
+    thanks_headline: 'A great thanks to our biggest contributors :'
+    thanks: "Frederic Alix, なおたか はらだ, Joe McLaughlin, mamma, Ron, Obi George, Hijo, 96HiME, SUPERIDOL, Neotag and to others."
+    usercount_headline: "This instance count :"
     business_email: 商業電郵︰
     closed_registrations: 本服務站暫時停止接受登記。
     contact: 聯絡

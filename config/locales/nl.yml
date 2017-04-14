@@ -3,6 +3,21 @@ nl:
   about:
     about_mastodon: Mastodon is een <em>vrije, gratis, open-source</em> sociaal netwerk. E <em>gedecentraliseerd</em> alternatief voor commerciële platforms, het voorkomt de risico's van een enkel bedrijf dat jouw communicatie monopoliseert. Kies een server die je vertrouwt &mdash; welke je ook kiest, je kunt met iedere ander communiceren. Iedereen kan een eigen Mastodon server draaien en naadloos deelnemen in het <em>sociale netwerk</em>.
     about_this: Over deze server
+    presentation: 'We are an open Mastodon instance with people from all around the world. Feel free to join us in this adventure.'
+    rules_headline: 'What are the rules ?'
+    rules:
+      a: Racism, xenophobia, homophobia are strictly prohibited.
+      b: Lolicon, childs and immoral pictures are strictly prohibited.
+      c: NSFW is allowed only in Content Warning.
+      d: Gore, blood and violent pictures only in Content Warning.
+      e: Don't be a troll, Don't be a bully.
+      f: Don't be a jerk, please.
+      g: You can report every post you judge offensive.
+      h: We are in the cloud but respect your own country law.
+    contribute_headline: 'How to help us ?'
+    thanks_headline: 'A great thanks to our biggest contributors :'
+    thanks: "Frederic Alix, なおたか はらだ, Joe McLaughlin, mamma, Ron, Obi George, Hijo, 96HiME, SUPERIDOL, Neotag and to others."
+    usercount_headline: "This instance count :"
     apps: Apps
     business_email: 'Zakelijke e-mailadres:'
     closed_registrations: Registrateren op deze server is momenteel uitgeschakeld.

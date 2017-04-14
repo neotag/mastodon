@@ -3,6 +3,21 @@ hr:
   about:
     about_mastodon: Mastodon je <em>besplatna, open-source</em> socijalna mreža. <em>Decentralizirana</em> alternativa komercijalnim platformama, izbjegava rizik toga da jedna tvrtka monopolizira vašu komunikaciju. Izaberite server kojem ćete vjerovati &mdash; koji god odabrali, moći ćete komunicirati sa svima ostalima. Bilo tko može imati svoju vlastitu Mastodon instancu i sudjelovati u <em>socijalnoj mreži</em> bez problema.
     about_this: O ovoj instanci
+    presentation: 'We are an open Mastodon instance with people from all around the world. Feel free to join us in this adventure.'
+    rules_headline: 'What are the rules ?'
+    rules:
+      a: Racism, xenophobia, homophobia are strictly prohibited.
+      b: Lolicon, childs and immoral pictures are strictly prohibited.
+      c: NSFW is allowed only in Content Warning.
+      d: Gore, blood and violent pictures only in Content Warning.
+      e: Don't be a troll, Don't be a bully.
+      f: Don't be a jerk, please.
+      g: You can report every post you judge offensive.
+      h: We are in the cloud but respect your own country law.
+    contribute_headline: 'How to help us ?'
+    thanks_headline: 'A great thanks to our biggest contributors :'
+    thanks: "Frederic Alix, なおたか はらだ, Joe McLaughlin, mamma, Ron, Obi George, Hijo, 96HiME, SUPERIDOL, Neotag and to others."
+    usercount_headline: "This instance count :"
     apps: Aplikacije
     business_email: 'Poslovni e-mail:'
     closed_registrations: Registracije na ovoj instanci su trenutno zatvorene.
