@@ -32,8 +32,6 @@
           = @instance_presenter.closed_registrations_message.html_safe
         .info
           = link_to t('auth.login'), new_user_session_path, class: 'webapp-btn'
-          ·
-          = link_to t('about.other_instances'), 'https://github.com/tootsuite/mastodon/blob/master/docs/Using-Mastodon/List-of-Mastodon-instances.md'
 
   - unless @instance_presenter.site_description.blank?
     %h3= t('about.description_headline', domain: Rails.configuration.x.local_domain)
@@ -118,6 +116,7 @@
       %strong= number_with_delimiter @instance_presenter.domain_count
       %span= t 'about.domain_count_after'
 
+
   %h3= t('about.thanks_headline')
   %p= t('about.thanks')
 
@@ -128,8 +127,8 @@
     .info
       = link_to t('about.terms'), terms_path
       ·
-      = link_to t('about.apps'), 'https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md'
+      = link_to t('about.apps'), 'https://github.com/tootsuite/mastodon/blob/master/docs/Using-Mastodon/Apps.md'
       ·
       = link_to t('about.source_code'), 'https://github.com/tootsuite/mastodon'
       ·
-      = link_to t('about.other_instances'), 'https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/List-of-Mastodon-instances.md'
+      = link_to t('about.other_instances'), 'https://github.com/tootsuite/mastodon/blob/master/docs/Using-Mastodon/List-of-Mastodon-instances.md'
