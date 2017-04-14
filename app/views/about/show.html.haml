@@ -37,7 +37,7 @@
 
   - unless @instance_presenter.site_description.blank?
     %h3= t('about.description_headline', domain: Rails.configuration.x.local_domain)
-    %p= @instance_presenter.site_description.html_safe
+    %p= t('about.presentation')
 
   %h3= t('about.features_headline')
 
@@ -102,9 +102,6 @@
           = fa_icon('li check-square')
           = t 'about.rules.h'
 
-  %h3= t('about.contribute_headline')
-
-  %p= @instance_presenter.site_description.html_safe
   %h3= t('about.usercount_headline')
 
   .information-board
@@ -122,8 +119,10 @@
       %span= t 'about.domain_count_after'
 
   %h3= t('about.thanks_headline')
-
   %p= t('about.thanks')
+
+  %h3= t('about.contribute_headline')
+  %p= @instance_presenter.site_description.html_safe
 
   .actions
     .info
